@@ -2,7 +2,7 @@ Advanced CSS: portfolio
 # Build a portfolio page from scratch
 
 ## Github Pages
-#Locate the deployed application on Github pages [here]
+#Locate the deployed application on Github pages [here]https://ze7hu.github.io/Porty/
 
 ## Description
 #Building a portfolio to showcase my skills to a potential employer.    
